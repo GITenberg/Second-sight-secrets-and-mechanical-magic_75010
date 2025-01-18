@@ -1,0 +1,28 @@
+_repo: Second-sight-secrets-and-mechanical-magic_75010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pinetti, Herman
+    gutenberg_agent_id: '57772'
+    url: http://www.gutenberg.org/2009/agents/57772
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75010'
+language: en
+pgterms:marc904: https://archive.org/details/secondsightsecre00pine
+pgterms:marc905: 20240125074330pinetti
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aBridgeport :$bThe Dunham Press, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Second sight secrets and mechanical magic
+url: http://www.gutenberg.org/ebooks/75010
